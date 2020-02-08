@@ -1,0 +1,18 @@
+h2 {
+    color: black;
+    font-family: sans-serif;
+    font-style: normal;
+    text-align: center;
+  }
+p{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 4mm; 
+    line-height: 4px;
+  }
+ul {
+    line-height: 15px;
+  }
+body{
+    background-color: #B0B4B0;
+}
